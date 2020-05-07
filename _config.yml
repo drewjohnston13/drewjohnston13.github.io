@@ -16,8 +16,7 @@
 title: Home
 email: drew.johnston13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm a Mathematician, Data Scientist, and Machine Learning Enthusiast. 
-  Here I display my experience, personal projects, and resume for your viewing pleasure.
+  I'm a Mathematician, Data Scientist, and Machine Learning Enthusiast. Here I display my experience, personal projects, and resume for your viewing pleasure.
 github_username: drewjohnston13
 minimal_mistakes_skin: default
 search: true
@@ -65,7 +64,7 @@ author:
 #       url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/drewjohnston13"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
