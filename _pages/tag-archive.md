@@ -1,6 +1,6 @@
 ---
-title: "Papers at some point"
+title: "Papers"
 permalink: /papers/
-layout: tags
+layout: archive
 author_profile: true
 ---
