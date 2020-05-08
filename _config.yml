@@ -107,3 +107,6 @@ project_archive:
 paper_archive:
   type: liquid
   path: /papers/
+resume_archive:
+  type: liquid
+  path: /papers/
