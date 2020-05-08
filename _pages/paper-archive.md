@@ -7,6 +7,14 @@ author_profile: true
 
 The following are papers I've written for personal projects, projects for graduate coursework, or projects as a part of a Research Experience with the University of North Carolina at Wilmington.
 
-[This is an inline link](https://drewjohnston13.github.io/book_recommender.pdf)
+[A Stylometry-Based Book Recommendation System](https://drewjohnston13.github.io/book_recommender.pdf)
 
-[I'm an inline-style link with title](https://drewjohnston13.github.io/book_recommender.pdf "Book Recommender System")
+[Predicting Antidepressant Response with Electroencephalography](https://drewjohnston13.github.io/Predicting Antidepressant Response with Electroencephalography.pdf)
+
+[Innovative Features for Atrial Fibrillation Detection](https://drewjohnston13.github.io/atrial_fibrillation.pdf)
+
+[Statistical Learning for Facial Demographic Analysis](https://drewjohnston13.github.io/morphIIpaper.pdf)
+
+[A Review of Pitchfork Music Reviews](https://drewjohnston13.github.io/A Review of Pitchfork Music Reviews.pdf)
+
+[Optimal Control: Stabilizing a Double-Inverted Pendulum System](https://drewjohnston13.github.io/optimal_control.pdf)
