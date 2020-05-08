@@ -68,9 +68,8 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/drewjohnston13/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+    - label: "Provo, Utah"
+      icon: "fab fa-fw fa-map-marker"
 
 footer:
   links:
@@ -80,9 +79,8 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/drewjohnston13/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
+    - label: "Provo, Utah"
+      icon: "fab fa-fw fa-map-marker"
 
 defaults:
   # _posts
