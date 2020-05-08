@@ -35,15 +35,16 @@ Check out my Optimal Control project. The object was to stabilize a double-inver
 Pretty cool, eh? 
 
 ## Deep Learning
-### _Style Transfer_
-I made it look cool
+### <ins>_Style Transfer_</ins>
+<ins> I made it look cool </ins>
 
 ### _Cancer Detection_
 Check out the cool pictures. 
 {: .notice}
 
 ## Data Science
-### _Here's a taste_
-Check out my paper here:
+### \textcolor{red}{\textbf{_Here's a taste_}}
+\textcolor{red}{\textbf{Check out my paper here:}}
+
 ### _Something else_ 
 I don't know yet
