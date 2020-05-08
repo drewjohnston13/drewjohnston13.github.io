@@ -7,13 +7,6 @@ author_profile: true
 
 The following are papers I've written for personal projects, projects for graduate coursework, or projects as part of a research team. They vary in style according to the requirements of the course or research advisor or my own whims. 
 
-#### [A Stylometry-Based Book Recommendation System](https://drewjohnston13.github.io/book_recommender.pdf)
-Recommendation systems are designed to connect consumers
-to relevant products and information by personalizing recommendations
-based on the consumers’ previous experiences. The vast majority of recommender systems use collaborative filtering methods that make recommendations based on the preferences of other users. This is often effective,
-but has one major drawback: previously unrated items cannot be recommended by the system. Content-based recommender systems overcome this drawback by making suggestions based on inherent attributes of an
-item. This paper describes a novel approach to content-based book recommendation using stylometry to compare the writing styles found in different books. A proof-of-concept model as been developed and tested, but the performance is difficult to evaluate due to the small size of thel ibrary that was developed. However, the system guarantees 100% coverage across the library and behaves as intended after empirical testing.
-
 #### [Predicting Antidepressant Response with Electroencephalography](https://drewjohnston13.github.io/Predicting%20Antidepressant%20Response%20with%20Electroencephalography.pdf)
 This paper endeavors to establish machine learning methods for predicting whether a
 depressed patient will have a positive response to antidepressants. Outlined in the paper are efforts
@@ -32,6 +25,13 @@ novel features. Using a random forest classifier and 12 original features, we ac
 0.963 and averaged F1-score of 0.962 with leave-one-person-out cross validation on the MIT-BIH
 data. The same model achieved accuracy of 0.949 and averaged F1-score of 0.813 with 5-fold cross
 validation on the 2017 Challenge data.
+
+#### [A Stylometry-Based Book Recommendation System](https://drewjohnston13.github.io/book_recommender.pdf)
+Recommendation systems are designed to connect consumers
+to relevant products and information by personalizing recommendations
+based on the consumers’ previous experiences. The vast majority of recommender systems use collaborative filtering methods that make recommendations based on the preferences of other users. This is often effective,
+but has one major drawback: previously unrated items cannot be recommended by the system. Content-based recommender systems overcome this drawback by making suggestions based on inherent attributes of an
+item. This paper describes a novel approach to content-based book recommendation using stylometry to compare the writing styles found in different books. A proof-of-concept model as been developed and tested, but the performance is difficult to evaluate due to the small size of thel ibrary that was developed. However, the system guarantees 100% coverage across the library and behaves as intended after empirical testing.
 
 #### [Statistical Learning for Facial Demographic Analysis](https://drewjohnston13.github.io/morphIIpaper.pdf)
 In this report, we explore the MORPH-II Dataset numerically and graphically. We
