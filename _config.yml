@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Drew Johnston"
   avatar : "/assets/images/profile.jpg"
-  bio    : "I'm a passionate Mathematician, Data Scientist, and Machine Learning Enthusiast."
+  bio    : "Passionate Mathematician, Data Scientist, and Machine Learning Enthusiast."
   links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
