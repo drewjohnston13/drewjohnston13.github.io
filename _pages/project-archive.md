@@ -4,20 +4,19 @@ permalink: /projects/
 layout: single
 author_profile: true
 ---
-# Table of Contents
-  [Optimal Control](#optimal-control)
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;[Double-Inverted Pendulum](#stabilizing-a-double-inverted-pendulum-system)
-    
-  [Deep Learning](#deep-learning)
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;[Style Transfer](#style-transfer)
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;[Cancer](#cancer-detection)
+### Table of Contents
+[Optimal Control](#optimal-control)
 
-# Optimal Control 
+&nbsp;&nbsp;&nbsp;&nbsp;* [Double-Inverted Pendulum](#stabilizing-a-double-inverted-pendulum-system)
 
-## Stabilizing a Double-Inverted Pendulum System
+* [Deep Learning](#deep-learning)
+
+&nbsp;&nbsp;&nbsp;&nbsp;* [Style Transfer](#style-transfer)
+
+&nbsp;&nbsp;&nbsp;&nbsp;* [Cancer](#cancer-detection)
+
+## **_Optimal Control_**
+#### **Stabilizing a Double-Inverted Pendulum System**
 Check out my Optimal Control project. The object was to stabilize a double-inverted pendulum system given initial conditions: 
 
 ![Stabilizing Double-Inverted Pendulum](https://drewjohnston13.github.io/video_1.gif)
@@ -28,15 +27,15 @@ Check out my Optimal Control project. The object was to stabilize a double-inver
 
 Pretty cool, eh? 
 
-# Deep Learning
-## Style Transfer
+## Deep Learning
+#### Style Transfer
 I made it look cool
 
-## Cancer Detection
+#### Cancer Detection
 Check out the cool pictures. 
 
-# Data Science
-## Here's a taste
+## Data Science
+#### Here's a taste
 Check out my paper here:
-## Something else:
+#### Something else:
 I don't know yet
