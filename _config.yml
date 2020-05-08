@@ -109,4 +109,4 @@ paper_archive:
   path: /papers/
 resume_archive:
   type: liquid
-  path: /papers/
+  path: /resume/
