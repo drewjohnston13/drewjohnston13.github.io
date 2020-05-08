@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
+title: "Eventually a Resume"
 layout: categories
-permalink: /categories/
+permalink: /resume/
 author_profile: true
 ---
