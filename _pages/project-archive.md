@@ -20,3 +20,13 @@ Check out my Optimal Control project. The object was to stabilize a double-inver
 Pretty cool, eh? 
 
 </div>
+
+
+<div class="boxed">
+  This text is enclosed in a box.
+</div>
+
+
+<div class="boxed">
+  This text is enclosed in a box.
+</div>
