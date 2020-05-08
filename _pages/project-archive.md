@@ -5,10 +5,9 @@ layout: single
 author_profile: true
 ---
 
-<div class="panel panel-success">
+<div class="boxed">
+  
 **Optimal Control: Stabilizing a Double-Inverted Pendulum System**
-{: .panel-heading}
-<div class="panel-body">
 
 Check out my Optimal Control project. The object was to stabilize a double-inverted pendulum system given initial conditions: 
 
@@ -20,25 +19,4 @@ Check out my Optimal Control project. The object was to stabilize a double-inver
 
 Pretty cool, eh? 
 
-</div>
-</div>
-
-<div class="panel panel-gitlab-orange">
-**Other Project**
-{: .panel-heading}
-<div class="panel-body">
-
-Text in markdown.
-
-</div>
-</div>
-
-<div class="panel panel-gitlab-purple">
-**New Project**
-{: .panel-heading}
-<div class="panel-body">
-
-Text in markdown.
-
-</div>
 </div>
