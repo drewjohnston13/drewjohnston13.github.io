@@ -4,8 +4,6 @@ permalink: /projects/
 layout: single
 author_profile: true
 ---
-
-<div class="boxed">
   
 **Optimal Control: Stabilizing a Double-Inverted Pendulum System**
 
@@ -19,14 +17,25 @@ Check out my Optimal Control project. The object was to stabilize a double-inver
 
 Pretty cool, eh? 
 
-</div>
+----------------------- ------------------------------------
+Here are some things s\ Table multiline text bla bla bla bla
+                        bla bla bla bla bla bla bla ... the
+                        blank line below is important 
+
+------------------------------------------------------------
+
+----
+How does this look?
+Not sure.
+
+----
+Multiple boxes?
+
+----
 
 
-<div class="boxed">
-  This text is enclosed in a box.
-</div>
+::: warning
+*here be dragons*
+:::
 
-
-<div class="boxed">
-  This text is enclosed in a box.
-</div>
+    Is this in a box?
