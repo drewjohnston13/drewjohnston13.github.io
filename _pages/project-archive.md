@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-### Table of Contents
+## Table of Contents
 [Optimal Control](#optimal-control)
 
 * [Double-Inverted Pendulum](#stabilizing-a-double-inverted-pendulum-system)
@@ -23,7 +23,7 @@ author_profile: true
 * [Something else](#something-else)
 
 ## ***Optimal Control***
-#### **Stabilizing a Double-Inverted Pendulum System**
+### ___Stabilizing a Double-Inverted Pendulum System___
 Check out my Optimal Control project. The object was to stabilize a double-inverted pendulum system given initial conditions: 
 
 ![Stabilizing Double-Inverted Pendulum](https://drewjohnston13.github.io/video_1.gif)
@@ -35,15 +35,15 @@ Check out my Optimal Control project. The object was to stabilize a double-inver
 Pretty cool, eh? 
 
 ## Deep Learning
-#### Style Transfer
+### _Style Transfer_
 I made it look cool
 
-#### Cancer Detection
+### _Cancer Detection_
 Check out the cool pictures. 
 {: .notice}
 
 ## Data Science
-#### Here's a taste
+### _Here's a taste_
 Check out my paper here:
-#### Something else
+### _Something else_ 
 I don't know yet
