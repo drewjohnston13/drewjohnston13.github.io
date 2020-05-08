@@ -1,6 +1,6 @@
 ---
 title: "Resume/CV"
-layout: categories
+layout: archive
 permalink: /resume/
 author_profile: true
 ---
