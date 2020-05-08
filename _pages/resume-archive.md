@@ -1,5 +1,5 @@
 ---
-title: "Eventually a Resume"
+title: "Resume/CV"
 layout: categories
 permalink: /resume/
 author_profile: true
