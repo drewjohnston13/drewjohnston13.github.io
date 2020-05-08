@@ -4,20 +4,23 @@ permalink: /projects/
 layout: single
 author_profile: true
 ---
-[TOC]
-# ***Optimal Control***
-## Double-Inverted Pendulum
 
 ### Table of Contents
 [Optimal Control](#optimal-control)
 
-&nbsp;&nbsp;&nbsp;&nbsp;* [Double-Inverted Pendulum](#stabilizing-a-double-inverted-pendulum-system)
+* [Double-Inverted Pendulum](#stabilizing-a-double-inverted-pendulum-system)
 
-* [Deep Learning](#deep-learning)
+[Deep Learning](#deep-learning)
 
-&nbsp;&nbsp;&nbsp;&nbsp;* [Style Transfer](#style-transfer)
+* [Style Transfer](#style-transfer)
 
-&nbsp;&nbsp;&nbsp;&nbsp;* [Cancer](#cancer-detection)
+* [Cancer](#cancer-detection)
+
+[Data Science](#data-science)
+
+* [Taste](#here's-a-taste)
+
+* [Something else](#something-else)
 
 ## ***Optimal Control***
 #### **Stabilizing a Double-Inverted Pendulum System**
@@ -41,5 +44,5 @@ Check out the cool pictures.
 ## Data Science
 #### Here's a taste
 Check out my paper here:
-#### Something else:
+#### Something else
 I don't know yet
