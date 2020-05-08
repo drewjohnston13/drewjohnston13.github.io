@@ -4,6 +4,10 @@ permalink: /projects/
 layout: single
 author_profile: true
 ---
+[TOC]
+# ***Optimal Control***
+## Double-Inverted Pendulum
+
 ### Table of Contents
 [Optimal Control](#optimal-control)
 
@@ -15,7 +19,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;* [Cancer](#cancer-detection)
 
-## **_Optimal Control_**
+## ***Optimal Control***
 #### **Stabilizing a Double-Inverted Pendulum System**
 Check out my Optimal Control project. The object was to stabilize a double-inverted pendulum system given initial conditions: 
 
