@@ -1,10 +1,10 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: posts
+layout: single
 author_profile: true
 ---
-Check out my project: 
+Check out my Optimal Control project. The object was to stabilize a double-inverted pendulum system given initial conditions: 
 
 ![Stabilizing Double-Inverted Pendulum](https://drewjohnston13.github.io/video_1.gif)
 ![Stabilizing Double-Inverted Pendulum](https://drewjohnston13.github.io/video_2.gif)
