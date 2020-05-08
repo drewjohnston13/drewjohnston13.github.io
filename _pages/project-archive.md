@@ -22,8 +22,8 @@ author_profile: true
 
 * [Something else](#something-else)
 
-## ***Optimal Control***
-### ___Stabilizing a Double-Inverted Pendulum System___
+## _Optimal Control_
+### <ins>Stabilizing a Double-Inverted Pendulum System</ins>
 Check out my Optimal Control project. The object was to stabilize a double-inverted pendulum system given initial conditions: 
 
 ![Stabilizing Double-Inverted Pendulum](https://drewjohnston13.github.io/video_1.gif)
@@ -34,17 +34,17 @@ Check out my Optimal Control project. The object was to stabilize a double-inver
 
 Pretty cool, eh? 
 
-## Deep Learning
-### <ins>_Style Transfer_</ins>
-<ins> I made it look cool </ins>
+## _Deep Learning_
+### <ins>Style Transfer</ins>
+I made it look cool.
 
-### _Cancer Detection_
+### <ins>Cancer Detection</ins>
 Check out the cool pictures. 
 {: .notice}
 
-## Data Science
-### \textcolor{red}{\textbf{_Here's a taste_}}
-\textcolor{red}{\textbf{Check out my paper here:}}
+## _Data Science_
+### <ins>Here's a taste</ins>
+Check out my paper here:
 
-### _Something else_ 
-I don't know yet
+### <ins>Something else</ins>
+I don't know yet.
