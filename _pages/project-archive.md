@@ -40,6 +40,7 @@ I made it look cool
 
 #### Cancer Detection
 Check out the cool pictures. 
+{: .notice}
 
 ## Data Science
 #### Here's a taste
