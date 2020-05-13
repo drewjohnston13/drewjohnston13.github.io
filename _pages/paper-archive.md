@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-The following are papers I've written for personal projects, projects for graduate coursework, or projects as part of a research team. They vary in style according to the requirements of the course or research advisor or my own whims. 
+The following are research papers or project reports I've written for personal projects, projects for graduate coursework, or projects as part of a research team. They vary in style according to the requirements of the course or research advisor or my own whims. 
 
 ### [Predicting Antidepressant Response with Electroencephalography](https://drewjohnston13.github.io/Predicting%20Antidepressant%20Response%20with%20Electroencephalography.pdf)
 This paper endeavors to establish machine learning methods for predicting whether a
