@@ -3,14 +3,6 @@ permalink: /about/
 title: "About"
 author_profile: False
 ---
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
 
 ![image](/assets/images/profesh.JPG)
 
