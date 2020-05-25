@@ -12,7 +12,11 @@ author_profile: False
 }
 </style>
 
-And refers your imagem as follows: [![Proguard](./assets/images/profesh.JPG)]{: .image-left } Your Text 
+![image](/assets/images/profesh.JPG)
+
+or
+
+<img src="/assets/images/profesh.JPG" alt="">
 
 <img align="right" src="https://github.com/drewjohnston13/drewjohnston13.github.io/blob/master/assets/images/profesh.JPG">
 
