@@ -3,6 +3,16 @@ permalink: /about/
 title: "About"
 author_profile: False
 ---
+<style type="text/css">
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+</style>
+
+And refers your imagem as follows: [![Proguard](./assets/images/profesh.JPG)]{: .image-left } Your Text 
 
 <img align="right" src="https://github.com/drewjohnston13/drewjohnston13.github.io/blob/master/assets/images/profesh.JPG">
 
