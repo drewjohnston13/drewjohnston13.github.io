@@ -13,27 +13,6 @@ excerpt: "Data Scientist  &#124;  Mathematician"
 intro: 
   - excerpt: 'Seriously. Hire me. I know stuff.'
 feature_row:
-  - image_path: video_1.gif
-    alt: "placeholder image 1"
-    title: "Projects"
-    excerpt: "From Machine Learning to Natural Language Processing to Optimal Control Theory, explore a variety of projects I've completed that showcase skills I've developed."
-    url: "projects"
-    btn_label: "Projects"
-    btn_class: "btn--primary"  
-  - image_path: assets/images/Screen Shot 2020-05-25 at 2.44.14 PM.png
-    alt: "placeholder image 2"
-    title: "Papers"
-    excerpt: "For examples of my writing ability and insight into some of my research interests, check out the research papers and project reports I've written in recent years."
-    url: "papers"
-    btn_label: "Papers"
-    btn_class: "btn--primary"
-  - image_path: assets/images/IMG_1424.JPG
-    title: "About Me"
-    excerpt: "Learn more about who I am and how you can contact me!"
-    url: "about"
-    btn_label: "About Me"
-    btn_class: "btn--primary"
-feature_row2:
   - image_path: assets/images/greenforest.jpg
     alt: "Data Science Intern"
     title: "Data Science Computing Specialist (2020)"
@@ -41,7 +20,7 @@ feature_row2:
     url: "#test"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row2:
   - image_path: assets/images/redforest.jpg
     alt: "UNCW REU"
     title: "UNCW Research Experience for Undergraduates (2019)"
@@ -49,7 +28,7 @@ feature_row3:
     url: "#test"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
+feature_row3:
   - image_path: assets/images/fogforest.jpg
     alt: "Machine Learning Research"
     title: "NCH Capital Machine Learning Research Internship (2018-2019)"
@@ -57,8 +36,7 @@ feature_row4:
     url: "#test"
     btn_label: "NCH Capital"
     btn_class: "btn--primary"
----
-<!-- feature_row5:
+feature_row4:
   - image_path: assets/images/greenforest.jpg
     alt: "Machine Learning Research"
     title: "Personal Projects (2018-2020)"
@@ -66,7 +44,8 @@ feature_row4:
     url: "projects"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row6:
+---
+<!-- feature_row5:
   - image_path: assets/images/redforest.jpg
     alt: "Math ta"
     title: "Math TA"
@@ -78,7 +57,7 @@ feature_row6:
 
 {% include feature_row id="intro" type="center" %}
 
-<!-- {% include feature_row %} -->
+{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
@@ -86,6 +65,4 @@ feature_row6:
 
 {% include feature_row id="feature_row4" type="left" %}
 
-<!-- {% include feature_row id="feature_row5" type="right" %}
-
-{% include feature_row id="feature_row6" type="left" %} -->
+{% include feature_row id="feature_row5" type="right" %}
