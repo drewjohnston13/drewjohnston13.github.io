@@ -45,6 +45,10 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
