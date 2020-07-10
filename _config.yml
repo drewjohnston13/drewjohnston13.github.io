@@ -58,19 +58,19 @@ author:
   name   : "Drew Johnston"
   avatar : "/assets/images/profile.jpg"
   bio    : "Passionate Mathematician, Data Scientist, and Machine Learning Enthusiast."
-  links:
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       url: "https://"
-    - label: "Provo, Utah"
-      icon: "fa fa-map-marker"
-      url: "https://www.google.com/maps/place/Provo,+UT/@40.2572504,-111.7789927,11z/data=!3m1!4b1!4m5!3m4!1s0x874d9271930bf1bf:0x1d90f12600b556ef!8m2!3d40.2338438!4d-111.6585337"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/drewjohnston13"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/drewjohnston13/"
+  location : "Provo, UT"
+  email : "drew.johnston13@gmail.com"
+  github : "drewjohnston13"
+  linkedin : "drewjohnston13"
+#   links:
+# #     - label: "Website"
+# #       icon: "fas fa-fw fa-link"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/drewjohnston13"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/drewjohnston13/"
     
 footer:
   links:
