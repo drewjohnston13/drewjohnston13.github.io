@@ -29,8 +29,8 @@ controller to exert optimal control on the cart and stabilize the system. Read o
 ## _Deep Learning_
 ### <ins>Style Transfer</ins>
 As I explored interesting areas of deep learning, I came across style transfer. I used the VGG-19 Convolutional Neural Network model to fuse the style of one image with the content of another image. The results are a beautiful example of what can be accomplished with deep learning!
-![Style](https://github.com/drewjohnston13/drewjohnston13.github.io/blob/master/assets/images/download-1.png)
+![Style](/assets/images/download-1.png)
 
 ### <ins>Cancer Detection</ins>
 In this project, I created a PyTorch radiologist. I utilized U-Net architecture to develop and train a deep neural network who learned how to identify which areas of a picture are cancerous. The model performed well, ultimately being able to correctly identify cancer with over 95% accuracy on the validation set. In this image, we see a picture of skin cells, followed by the groun truth indicating where cancer is present in the picture, and then my model's identification of the cancer.
-![Cancer](https://github.com/drewjohnston13/drewjohnston13.github.io/blob/master/assets/images/download.png)
+![Cancer](assets/images/download.png)
