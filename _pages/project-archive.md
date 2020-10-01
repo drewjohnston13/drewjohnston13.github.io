@@ -33,4 +33,4 @@ As I explored interesting areas of deep learning, I came across style transfer. 
 
 ### <ins>Cancer Detection</ins>
 In this project, I created a PyTorch radiologist. I utilized U-Net architecture to develop and train a deep neural network who learned how to identify which areas of a picture are cancerous. The model performed well, ultimately being able to correctly identify cancer with over 95% accuracy on the validation set. In this image, we see a picture of skin cells, followed by the groun truth indicating where cancer is present in the picture, and then my model's identification of the cancer.
-![Cancer](assets/images/download.png)
+![Cancer](/assets/images/download.png)
