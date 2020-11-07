@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Table of Contents
+[Data Visualization](#data-visualization)
+
+* [COVID-19](#the-spread-of-covid-19-in-the-united-states)
+
+* [The Solar System](#the-solar-system)
+
 [Optimal Control](#optimal-control)
 
 * [Double-Inverted Pendulum](#stabilizing-a-double-inverted-pendulum-system)
@@ -15,6 +21,17 @@ author_profile: true
 * [Style Transfer](#style-transfer)
 
 * [Cancer Detection](#cancer-detection)
+
+## _Data Visualization_
+### <ins>The Spread of COVID-19 in the United States</ins>
+Using data from [_The New York Times_](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv) and the GeoPandas python package, we can track the spread of the Coronavirus in the United States by county and visualizes the results. This animation shows the spread of positive cases from January 21, 2020 to June 21, 2020.
+
+![Covid Spread](assets/images/covid_spread.mp4)
+
+### <ins>Inner Planetary Orbits in the Solar System</ins>
+3D animation is a valuable tool in data visualization. Here, I animate the orbits of the four inner planets or our solar system. It was an invaluable exercise in both animating data and 3D plotting in Python. 
+
+![Orbits](assets/images/planet_ani.mp4)
 
 ## _Optimal Control_
 ### <ins>Stabilizing a Double-Inverted Pendulum System</ins>
