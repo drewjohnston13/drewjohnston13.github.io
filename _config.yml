@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Drew Johnston"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Passionate Mathematician, Data Scientist, and Machine Learning Enthusiast."
+  bio    : "Mathematician, Data Scientist, and Machine Learning Enthusiast."
   location : "Provo, UT"
   email : "drew.johnston13@gmail.com"
   github : "drewjohnston13"
